@@ -1,5 +1,4 @@
-# galaxy-seal.github.io
-
 ---
 permalink: /index.html
 ---
+# galaxy-seal.github.io
